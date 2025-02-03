@@ -1,7 +1,7 @@
 # Polyrhythm Galaxy
 ## A rhythm game mixed with polyrhythm recognition software
 
-Try this website on [Github Pages!](https://thepihen.github.io/polyrhythm-galaxy/)
+Try this website on [Github Pages!](https://jnfrdm.github.io/polyrhythm-galaxy/)
 
 Check out a quick video presentation of this project below (click on the image to go to YouTube):
 
